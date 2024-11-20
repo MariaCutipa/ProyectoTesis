@@ -1,0 +1,29 @@
+Cat_Name;Breed;Personality_Trait;Image_Link;Backstory;Description
+Figma Prototypes;Design;User-Centric;https://design.com/figma-prototypes;Prototipos interactivos diseñados para una aplicación móvil;Los prototipos mejoran la experiencia del usuario en dispositivos táctiles.
+Usability Tests;Design;Simplification;https://design.com/usability-tests;Pruebas realizadas en una aplicación bancaria;Optimización del flujo de transferencias para mayor eficiencia.
+Accessible Interfaces;Design;Inclusive;https://design.com/accessible-interfaces;Interfaces creadas con compatibilidad para lectores de pantalla;Diseños accesibles para usuarios con discapacidades.
+Microinteractions;Design;Intuitive;https://design.com/microinteractions;Implementadas en un panel administrativo;Microinteracciones que guían la navegación del usuario.
+Responsive Design;Design;Adaptability;https://design.com/responsive-design;Diseño para una tienda en línea;Interfaces responsivas basadas en principios de experiencia de usuario.
+Eye Tracking;Design;Data-Driven;https://design.com/eye-tracking;Formularios optimizados tras análisis de eye-tracking;Identificación de puntos de fricción en formularios web.
+Low-Fidelity Prototype;Design;User-Needs;https://design.com/low-fi-prototype;Prototipo diseñado para un sistema de reservas;Diseño enfocado en las necesidades del usuario final.
+Interactive Dashboards;Design;Visualization;https://design.com/interactive-dashboards;Dashboards creados con herramientas como Power BI;Interactividad y claridad priorizadas en la visualización de datos.
+WCAG Standards;Design;Accessible;https://design.com/wcag-standards;Mejoras implementadas en una plataforma educativa;Cumplimiento de estándares de accesibilidad WCAG.
+Navigation Optimization;Design;Streamlined;https://design.com/navigation-optimization;Estructura optimizada en un portal de noticias;Reducción en el tiempo para encontrar contenido relevante.
+Reusable Components;Frontend;Scalable;https://frontend.com/reusable-components;Desarrollados con React y TypeScript;Componentes dinámicos y reutilizables para aplicaciones modernas.
+Angular Reservations;Frontend;Efficient;https://frontend.com/angular-reservations;Sistema de reservas desarrollado en Angular;Integración de validaciones personalizadas para mayor precisión.
+Vue.js E-Commerce;Frontend;User-Friendly;https://frontend.com/vue-ecommerce;Aplicación de comercio electrónico creada con Vue.js;Experiencia de compra optimizada para usuarios en línea.
+Svelte Interface;Frontend;Lightweight;https://frontend.com/svelte-interface;Interfaz desarrollada con Svelte;Alta velocidad y ligereza garantizadas.
+React Maps;Frontend;Interactive;https://frontend.com/react-maps;Mapas interactivos integrados en una aplicación móvil;Desarrollo utilizando React Native.
+Bootstrap Website;Frontend;Modern;https://frontend.com/bootstrap-website;Sitio web corporativo diseñado con Bootstrap;Estilo profesional y diseño moderno adaptado.
+D3.js Visualizations;Frontend;Dynamic;https://frontend.com/d3-visualizations;Gráficos interactivos creados con D3.js;Visualizaciones avanzadas para un sistema de monitoreo.
+Highcharts Analytics;Frontend;Insightful;https://frontend.com/highcharts-analytics;Herramienta de análisis de datos desarrollada con Angular;Visualización de datos a través de Highcharts.
+Tailwind CSS;Frontend;Consistent;https://frontend.com/tailwind-css;Diseños estilizados con Tailwind CSS;Consistencia en múltiples páginas web.
+Gatsby.js Blog;Frontend;Optimized;https://frontend.com/gatsby-blog;Blog dinámico creado con Gatsby.js;Cargas optimizadas mediante GraphQL.
+Node.js API;Backend;RESTful;https://backend.com/node-api;API desarrollada para gestionar usuarios y productos;Construida con Node.js para un backend eficiente.
+OAuth2 Authentication;Backend;Secure;https://backend.com/oauth2-auth;Sistema de autenticación diseñado para portales web;Autenticación segura basada en estándares OAuth2.
+Docker Microservices;Backend;Scalable;https://backend.com/docker-microservices;Microservicios implementados con Docker;Garantía de escalabilidad y alta disponibilidad.
+Stripe Payments;Backend;Real-Time;https://backend.com/stripe-payments;Integración de APIs externas como Stripe;Procesamiento de pagos en tiempo real.
+PostgreSQL Queries;Database;Optimized;https://database.com/postgresql-queries;Consultas optimizadas para sistemas hospitalarios;Mejora del rendimiento en análisis de datos en tiempo real.
+MongoDB Storage;Database;Flexible;https://database.com/mongodb-storage;Base de datos creada para e-commerce;Documentos JSON manejados de forma escalable.
+Redis Sessions;Database;High-Speed;https://database.com/redis-sessions;Gestión de sesiones en memoria con Redis;Latencia minimizada para sistemas de autenticación.
+Prometheus Monitoring;DevOps;Reliable;https://devops.com/prometheus-monitoring;Sistema distribuido monitorizado con Prometheus;Visualización de métricas en tiempo real con Grafana.
